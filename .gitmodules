@@ -1,6 +1,6 @@
 [submodule "plugins"]
 	path = plugins
-	url = https://github.com/Ghoelian/plugins.git
+	url = https://github.com/Ghoelian/albert-plugins.git
 [submodule "lib/QHotkey"]
 	path = lib/QHotkey
 	url = https://github.com/Skycoder42/QHotkey
