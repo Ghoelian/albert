@@ -5,6 +5,7 @@ RUN yum install -y \
     libarchive-devel \
     libqalculate-devel \
     muParser-devel \
+    boost-devel \
     pkgconfig \
     pybind11-devel \
     python3-devel \

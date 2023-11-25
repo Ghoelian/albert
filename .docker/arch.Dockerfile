@@ -6,6 +6,7 @@ RUN pacman -Syu --verbose --noconfirm \
     gcc \
     libarchive \
     libqalculate \
+    boost \
     make \
     muparser \
     pybind11 \

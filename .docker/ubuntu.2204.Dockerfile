@@ -16,6 +16,7 @@ RUN apt-get install --no-install-recommends -y \
         libqalculate-dev \
         libqt6sql6-sqlite \
         libqt6svg6-dev \
+        libboost-dev \
         make \
         pkg-config \
         pybind11-dev \
